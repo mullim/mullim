@@ -35,4 +35,4 @@ I'm Mike, a full stack developer based out of Upstate New York. Throughout my ca
 ## Stats
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=mullim)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mullim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mullim)](https://github.com/anuraghazra/github-readme-stats)
