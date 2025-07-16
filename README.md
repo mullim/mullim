@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Mike, a full stack developer based out of Upstate New York. Throughout my career, I've built performant front-end web app's and scalable back-end services in the cloud (AWS & GCP). Currently, I'm working @Flexport to help merchants provide fast and reliable fulfillment to their customers.
+I'm Mike, a full stack developer based out of Upstate New York. Throughout my career, I've built performant front-end web app's and scalable back-end services in the cloud (AWS & GCP). Currently, I'm working @Flexport 🚢 🚛 📦 to help merchants provide fast and reliable fulfillment to their customers.
 
 Below is tech that I enjoy using:
 
